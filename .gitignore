@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+.venv/
+pip-wheel-metadata/
+*.sqlite3
+
+# Django specific
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+.env
+*.env
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Node / React if full stack project
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
